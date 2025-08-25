@@ -1,4 +1,4 @@
-# Bayesian-Optimization-Bachelor-Thesis
-My Bachelor's Thesis on Bayesian Optimization
+## Experiment conducted as part of my Bachelor's thesis: 
+## *Analysis of Bayesian Optimization Components in Terms of the Properties of Exploration and Exploitation*
 
-Work in progress
+**Final Project Code – Submitted (June 2025)**
